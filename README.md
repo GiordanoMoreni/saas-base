@@ -1,5 +1,7 @@
 # SaaS Base
 
+A free, open-source SaaS app starter.
+
 Production-ready starter kit for building SaaS applications with Next.js and Supabase.
 
 ## Features
@@ -33,7 +35,7 @@ Production-ready starter kit for building SaaS applications with Next.js and Sup
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/GiordanoMoreni/saas-base.git
 cd saas-base
 ```
 
